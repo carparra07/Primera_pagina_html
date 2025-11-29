@@ -1,0 +1,33 @@
+# PRIMERA PAGINA HTML  <!--# oe manito ponga cuidado-->
+Este proyecto se genero para implementar una pagina con html y css y repositorio en git hub que va a ser revisado y calificado<!--explicacion corta del repositorio-->
+
+## Autor
+Carlos Steven Parra Martinez
+
+## Contenido del repositorio <!--subtitulo del readme-->
+- index.html 
+- style.css
+
+## Como ejecutar el proyecto
+1. clonar el repositorio 
+git clone https://github.com/carparra07/html_carparra.git
+2. abre el archivo index.html en su navegador 
+
+## Requisitos <!--seccion donde se identifican los requirimientos que debe tener el usuario-->
+No se requiere dependencias externas
+
+## Tecnologias usadas
+- html 
+- css
+
+## Contribuciones 
+
+Las contribuciones son bienvenidas si desean participar
+1. realiza un fork del proyecto
+2. crea una rama nueva 
+3. realiza los cambios y envia un pull request
+
+## Licencia 
+
+Este proyecto esta bajo la licencia de MIT
+
