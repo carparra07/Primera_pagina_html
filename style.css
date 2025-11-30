@@ -97,16 +97,7 @@ body{
   text-align: left; 
 }
 
-.cuadro-imagen {
-  border: 1px solid rgb(67, 44, 137); 
-  width: 300px;          
-  height: 200px;         
-  overflow: hidden;      
-  text-align: center;   
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .cuadro-imagen img {
   max-width: 100%;      
